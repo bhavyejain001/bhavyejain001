@@ -4,3 +4,6 @@
  I'm a Undergraduate student currenlty pursuing B.Tech in Information Technology. Welcome to my gh page! <br>
 
 🌱 *Currently Learning*:- MERN Stack and JAVA <br>
+📫 How to reach me: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Email](bhavye jain@bhavyejain001@gmail.com)
