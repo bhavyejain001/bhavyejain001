@@ -6,4 +6,4 @@
 🌱 *Currently Learning*:- MERN Stack and JAVA <br>
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Email](bhavye jain@bhavyejain001@gmail.com)
+[Email](bhavyejain@bhavyejain001@gmail.com)
