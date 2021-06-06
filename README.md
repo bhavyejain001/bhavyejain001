@@ -7,3 +7,5 @@
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Email](bhavyejain@bhavyejain001@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ [LinkedIn](https://www.linkedin.com/in/bhavye-jain-7a9b6218b)
