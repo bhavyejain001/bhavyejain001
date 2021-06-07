@@ -14,8 +14,8 @@
 <a href="<LinkedInURL>">![LinkedIn](https://img.shields.io/badge/LinkedIn-bhavye-jain-7a9b6218b?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  [LinkedIn](https://www.linkedin.com/in/bhavye-jain-7a9b6218b)
 
-
-![Bhavye GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyejain001&theme=merko_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<!-- 
+![Bhavye GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyejain001&theme=merko_icons=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyejain001&show_icons=true&theme=radical)
 
 
