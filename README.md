@@ -11,12 +11,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:bhavyejain001@gmail.com">![bhavyejain001@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="<www.linkedin.com/in/bhavye-jain-7a9b6218b>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="www.linkedin.com/in/bhavye-jain-7a9b6218b">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
  <!-- [LinkedIn](https://www.linkedin.com/in/bhavye-jain-7a9b6218b) -->
 
 <!-- 
 ![Bhavye GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyejain001&theme=merko_icons=true) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyejain001&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyejain001&show_icons=true&theme=merko)
 
 
