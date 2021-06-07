@@ -11,3 +11,6 @@
 [Email](bhavyejain@bhavyejain001@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [LinkedIn](https://www.linkedin.com/in/bhavye-jain-7a9b6218b)
+
+ ![Overall Stats](https://github-readme-stats.vercel.app/api?username=bhavyejain001&count_private=true&show_icons=true&hide=contribs)
+
