@@ -11,6 +11,5 @@
 <a href="mailto:bhavyejain001@gmail.com">![bhavyejain001@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [LinkedIn](https://www.linkedin.com/in/bhavye-jain-7a9b6218b)
-
- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=bhavyejain001&count_private=true&show_icons=true&hide=contribs)
  ![Bhavye GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyejain001&theme=merko_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyejain001&theme=merko_icons=true)
