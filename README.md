@@ -2,7 +2,7 @@
  
 ## Hi there 👋, I'm Bhavye.
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bhavyejain001.bhavyejain001)
-[![Years Badge](https://badges.pufler.dev/years/bhavyejain001/bhavyejain001)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/{bhavyejain001}/{bhavyejain001})](https://badges.pufler.dev)
 
  I'm a Undergraduate student currenlty pursuing B.Tech in Information Technology. Welcome to my gh page! <br>
 
