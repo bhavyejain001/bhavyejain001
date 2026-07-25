@@ -14,16 +14,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavyejain001&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyejain001&layout=compact&hide_border=true" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavyejain001&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyejain001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="35%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyejain001&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyejain001&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhavyejain001"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jainbhavye/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:bhavyejain001@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
