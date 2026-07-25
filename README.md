@@ -1,22 +1,38 @@
-<img src="https://cdn11.bigcommerce.com/s-ixtrkzisub/product_images/uploaded_images/banner-plant-trees.jpg"/>
- 
-## Hi there 👋, I'm Bhavye.
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bhavyejain001)
-<!-- [![Years Badge](https://badges.pufler.dev/years/{bhavyejain001}/{bhavyejain001})](https://badges.pufler.dev) -->
-   <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id) -->
- I'm a Undergraduate student currenlty pursuing B.Tech in Information Technology. Welcome to my gh page! <br>
+<h1 align="center">Hey, I'm Bhavye 👋</h1>
 
-🌱 *Currently Learning*:- MERN Stack and JAVA <br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86FF&center=true&vCenter=true&width=500&lines=Full+Stack+.NET+Developer;C%23+%7C+React+%7C+Angular+%7C+AWS;I+turn+ideas+into+code+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-## 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:bhavyejain001@gmail.com">![bhavyejain001@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bhavye-jain-7a9b6218b) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhavyejain001&label=Profile%20Views&color=2E86FF&style=flat" />
+  <a href="mailto:bhavyejain001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
- <!-- [LinkedIn](https://www.linkedin.com/in/bhavye-jain-7a9b6218b) -->
-<!-- 
-![Bhavye GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyejain001&theme=merko_icons=true) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyejain001&show_icons=true&theme=merko)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,aws,docker,postgres,mysql,js&theme=light" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavyejain001&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyejain001&layout=compact&hide_border=true" width="35%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyejain001&hide_border=true" width="60%" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhavyejain001"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:bhavyejain001@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E86FF&height=90&section=footer" />
+</p>
+
+<!--
+Replace "bhavyejain001" above with your actual GitHub username if different.
+Update the LinkedIn link with your real profile URL.
+To use: create a repo named exactly "bhavyejain001" (your GitHub username) and put this as README.md
+-->
